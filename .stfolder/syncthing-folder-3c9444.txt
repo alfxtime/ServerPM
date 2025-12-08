@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: es2ou-7dvhq
+created: 2025-04-16T13:15:09+02:00

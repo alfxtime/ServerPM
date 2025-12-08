@@ -21,8 +21,8 @@ German Industrial Production (YoY) (Oct);EUR;2025-12-08;07:00am;Low;2025-12-08 0
 SECO Consumer Climate (Nov);CHF;2025-12-08;08:00am;Medium;2025-12-08 08:00am;1765180800;400r3ne1gn80
 Foreign Reserves USD (MoM) (Nov);SGD;2025-12-08;09:00am;Low;2025-12-08 09:00am;1765184400;4ltpcmqe5hj0
 Sentix Investor Confidence (Dec);EUR;2025-12-08;09:30am;Low;2025-12-08 09:30am;1765186200;o61pk3cbumk0
-German 12-Month Bubill Auction;EUR;2025-12-08;10:30am;Low;2025-12-08 10:30am;1765189800;6lcd6b4gieu0
 Leading Index (MoM) (Nov);CAD;2025-12-08;11:00am;Low;2025-12-08 11:00am;1765191600;qmbtah7oqco0
+German 12-Month Bubill Auction;EUR;2025-12-08;11:20am;Low;2025-12-08 11:20am;1765192800;6h98kklmpnp0
 BCB Focus Market Readout;BRL;2025-12-08;11:25am;Low;2025-12-08 11:25am;1765193100;2eek31lbnf50
 Auto Production (MoM) (Nov);BRL;2025-12-08;13:00pm;Low;2025-12-08 13:00pm;1765198800;6ra3jmk6dl30
 Auto Sales (MoM) (Nov);BRL;2025-12-08;13:00pm;Low;2025-12-08 13:00pm;1765198800;12tt2ste6218
@@ -260,6 +260,6 @@ CFTC BRL speculative net positions;BRL;2025-12-12;20:30pm;Medium;2025-12-12 20:3
 CFTC JPY speculative net positions;JPY;2025-12-12;20:30pm;Medium;2025-12-12 20:30pm;1765571400;1p7kdj1p9f70
 CFTC NZD speculative net positions;NZD;2025-12-12;20:30pm;Low;2025-12-12 20:30pm;1765571400;137pfkh1p04g
 CFTC EUR speculative net positions;EUR;2025-12-12;20:30pm;Medium;2025-12-12 20:30pm;1765571400;3v4h7nt4d2d0
-Time;1765187400
-ServerTime;1765188048
-LocalTime;1765191649
+Time;1765194600
+ServerTime;1765195261
+LocalTime;1765198861
